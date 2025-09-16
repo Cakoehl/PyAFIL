@@ -67,7 +67,7 @@ ptyprocess==0.7.0
 pure_eval==0.2.3
 pybids==0.19.0
 pycryptodome==3.22.0
-pycups~=2.0.4
+pycups==2.0.1
 pydantic==2.11.4
 pydantic_core==2.33.2
 Pygments==2.19.1
